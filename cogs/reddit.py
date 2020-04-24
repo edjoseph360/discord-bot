@@ -3,11 +3,11 @@ from discord.ext import commands
 import praw
 import random
 
-client_id = "ImvhhDV83C8hVg"
-client_secret = "2qlN_fcI6KQjW296cB53DJhLVnA"
-user_agent = "pull_posts"
-username = "kingofthemilkyway"
-password = "hailtotheking"
+client_id = ""
+client_secret = ""
+user_agent = ""
+username = ""
+password = ""
 
 class reddit1(commands.Cog):
     
