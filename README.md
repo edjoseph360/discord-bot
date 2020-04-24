@@ -9,7 +9,7 @@ Once these steps are done, your bot is ready to run through the command line or 
 
 The command to get the bot to acivate is simply 'jeff ' with a space at the end. This is followed by a command and any arguements that command may take. For example, 'jeff reddit news' where 'reddit' is the command and 'news' is the arguement. 
 
-commands included in the bot are:
+commands included in the bot are:\n
 coinflip - returns heads or tails
 8ball- returns a response typical to an 8 ball
 reddit- returns a random post from the subreddit arguement given to it
