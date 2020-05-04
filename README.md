@@ -8,7 +8,8 @@ To use the reddit cog. You will need to get access to the reddit api. To do this
 Once these steps are done, your bot is ready to run through the command line or a server.\
 ![](img/jeff%20bot%20online.JPG)
 
-The command to get the bot to acivate is simply 'jeff ' with a space at the end. This is followed by a command and any arguements that command may take. For example, 'jeff reddit news' where 'reddit' is the command and 'news' is the arguement. 
+The command to get the bot to acivate is simply 'jeff ' with a space at the end. This is followed by a command and any arguements that command may take. For example, 'jeff reddit news' where 'reddit' is the command and 'news' is the arguement.\
+![](img/jeff%20reddit%20news.JPG)
 
 commands included in the bot are:\
 coinflip - returns heads or tails\
