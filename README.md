@@ -14,4 +14,4 @@ coinflip - returns heads or tails\
 8ball- returns a response typical to an 8 ball\
 reddit- returns a random post from the subreddit arguement given to it\
 clear- deletes the last few messages. default is 5. can take an arguement\ 
-![](img/jeff 8 ball)
+![](img/jeff%208%20ball.JPG)
