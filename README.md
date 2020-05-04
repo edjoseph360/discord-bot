@@ -5,7 +5,7 @@ The bots name is jeff. To use the bot you must get a token from the [discord dev
 
 To use the reddit cog. You will need to get access to the reddit api. To do this apply at https://www.reddit.com/prefs/apps. Then in the reddit.py file in the cogs folder place your information between lines 6-10.
 
-Once these steps are done, your bot is ready to run through the command line or a server.
+Once these steps are done, your bot is ready to run through the command line or a server.\
 ![](img/jeff%20bot%20online.JPG)
 
 The command to get the bot to acivate is simply 'jeff ' with a space at the end. This is followed by a command and any arguements that command may take. For example, 'jeff reddit news' where 'reddit' is the command and 'news' is the arguement. 
